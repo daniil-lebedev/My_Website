@@ -28,6 +28,15 @@ ul{
 
 }
 
+.goals{
+    background-color: #ff6600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    margin: 10px 20px 70px 70px;
+    padding: 40px;
+}
+
 footer{
     background-color: #ff6600;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
